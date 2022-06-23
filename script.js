@@ -4,7 +4,7 @@ const hoursEl = document.getElementById("hours");
 const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
-// Your Event Date below
+
 const birthdayDate = "22 sep 2022";
 
 function countdown() {
